@@ -1,6 +1,6 @@
 # About me
 
-Collaborative, solutions-focused and entrepreneurial mindset professional with over 20 years of experience in software engineering. Strong background in Agile, business and product management. Having worked for over 8 years with fully remote teams as developer, tech lead, and manager. Excellent communication and interpersonal skills. Suitable for Tech Lead, (Technical) Product Owner, Frontend and Fullstack Developer positions.
+Experienced software engineer with a proven track record on working with cross-functional teams, taking ownership and leading remote teams and products under extreme uncertainty conditions. Excellent communication and interpersonal skills. Ideal for positions requiring a blend of hands-on technical expertise and strategic leadership to guide product development from concept to deployment.
 
 # Tech Stack
 
